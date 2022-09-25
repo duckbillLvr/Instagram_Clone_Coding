@@ -1,2 +1,2 @@
-# Instagram_Clone_Coding
-인스타그램 서버 파트 클론 코딩
+# Instagram-Clone
+인스타그램 스프링 클론 코딩
